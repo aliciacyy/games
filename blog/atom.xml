@@ -2,12 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aliciacyy.github.io/games/blog</id>
     <title>Pigster Games Blog</title>
-    <updated>2017-10-24T06:00:00.000Z</updated>
+    <updated>2020-06-12T06:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aliciacyy.github.io/games/blog"/>
     <subtitle>The best place to stay up-to-date with the latest Pigster Games news and events.</subtitle>
     <logo>https://aliciacyy.github.io/games/img/logo.png</logo>
     <rights>Copyright © 2020 Pigster Games</rights>
+    <entry>
+        <title type="html"><![CDATA[Goodbye Clay]]></title>
+        <id>https://aliciacyy.github.io/games/blog/2020/06/12/goodbye-clay.html</id>
+        <link href="https://aliciacyy.github.io/games/blog/2020/06/12/goodbye-clay.html"/>
+        <updated>2020-06-12T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>Some background context first - I've been playing the Animal Crossing series since 2013, starting from Animal Crossing: New Leaf on the 3DS. Villagers leaving was supposed to be a thing that I should already be used to, having quite a number of them leaving in my old game and even a few in my current Animal Crossing: New Horizons game.</p>
+<p>I started my Animal Crossing: New Horizons journey on launch day (20 Mar 2020), and had about 5 villagers leaving my island so far:</p>
+<ul>
+<li>April 7 - Sheldon left</li>
+<li>April 9 - Bertha left</li>
+<li>April 24 - O'Hare left</li>
+<li>May 11 - Moe left</li>
+<li>May 13 - Mint left</li>
+</ul>
+<p>Somehow I didn't really have very strong attachment to any of them, as most of them only stayed for barely a month. But now...</p>
+]]></summary>
+        <author>
+            <name>Piggy</name>
+            <email/>
+            <uri/>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Version 1.0.0]]></title>
         <id>https://aliciacyy.github.io/games/blog/2017/10/24/new-version-1.0.0.html</id>
