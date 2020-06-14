@@ -1,0 +1,8 @@
+{
+  "docs": {
+    "Project DIVA MegaMix": ["pdmm-preface", "pdmm-list", "pdmm-videos-a", "pdmm-videos-c", "pdmm-videos-e", "pdmm-videos-h", "pdmm-videos-m"]
+  },
+  "docs-other": {
+    "First Category": ["doc4", "doc5"]
+  }
+}
