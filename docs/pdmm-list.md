@@ -85,5 +85,11 @@ Click on the rank number to view the rank screenshot (my username is Piggy).
 | [Negaposi Continues](pdmm-videos-m#negaposi-continues) | Excellent | 95.06% | [189](assets/hs/pdmm-hs-negaposi-continues.png) | 14-06-2020 | 
 | [Nice To Meet You, Mr. Earthling](pdmm-videos-m#nice-to-meet-you-mr-earthling) | Excellent* | 97.73% | [192](assets/hs/pdmm-hs-nice-to-meet-you-mr-earthling.png) | 14-06-2020 |
 | [No Logic](pdmm-videos-m#no-logic) | Perfect | 99.67% | [96](assets/hs/pdmm-hs-no-logic.png) | 14-06-2020 |
+| [Nostalogic (MEIKO-SAN mix)](pdmm-videos-m#nostalogic-meiko-san-mix) | Excellent | 99.69% | [388](assets/hs/pdmm-hs-nostalogic-meiko-san-mix.png) | 14-06-2020 |
+| [Odds & Ends](pdmm-videos-m#odds--ends) | Excellent | 100.26% | [227](assets/hs/pdmm-hs-odds-ends.png) | 14-06-2020 |
+| [On The Rocks](pdmm-videos-m#on-the-rocks) | Perfect | 101.45% | [113](assets/hs/pdmm-hs-on-the-rocks.png) | 14-06-2020 |
+| [Ooedo Julianight](pdmm-videos-m#ooedo-julianight) | Excellent* | 99.87% | [78](assets/hs/pdmm-hs-ooedo-julianight.png) | 14-06-2020 |
+| [Packaged](pdmm-videos-m#packaged) | Perfect | 100.62% | [304](assets/hs/pdmm-hs-packaged.png) | 14-06-2020 |
+| [Palette](pdmm-videos-m#palette) | Perfect | 100.52% | [144](assets/hs/pdmm-hs-palette.png) | 14-06-2020 |
 
 <!-- | [aaaaaaa](pdmm-videos-m#aaaaaaaaa) | Excellent | 000% | [000](assets/hs/pdmm-hs-aikotoba.png) | 14-06-2020 |  -->
