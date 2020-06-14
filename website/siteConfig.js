@@ -23,8 +23,8 @@ const users = [
 const siteConfig = {
   title: 'Pigster Games', // Title for your website.
   tagline: 'Just a hobby',
-  url: 'https://aliciacyy.github.io', // Your website URL
-  baseUrl: '/games/', // Base URL for your project */
+  url: 'https://pigster-games.onrender.com', // Your website URL
+  baseUrl: '/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
