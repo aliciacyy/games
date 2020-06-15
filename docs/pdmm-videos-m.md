@@ -34,6 +34,12 @@ sidebar_label: Videos (M - P)
 ## No Logic
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/sQdKbtEdn6s?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Magnet
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YvHYTc2KS5k?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Magnet
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YvHYTc2KS5k?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Nostalogic (MEIKO-SAN mix)
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gXYAye9t3sk?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
