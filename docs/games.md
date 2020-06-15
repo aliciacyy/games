@@ -8,7 +8,7 @@ TODO: Put some fancy welcome message here.
 
 ## Project DIVA Mega Mix
 
-The whole reason why I started this website. Just wanted to record all my Hard game plays, getting Execellent and above.
+The whole reason why I started this website actually. Just wanted to record all my Hard game plays, getting Excellent and above.
 
 <a class='button' href='/docs/pdmm-preface'>Project DIVA Mega Mix</a>
 

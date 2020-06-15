@@ -226,7 +226,7 @@ class Index extends React.Component {
                     <br />
                     <div className="buttonRow">
                       <div className="pluginWrapper buttonWrapper">
-                        <a className="button" href={docUrl('doc1')}>
+                        <a className="button" href={docUrl('games')}>
                           game videos
                         </a>
                       </div>
