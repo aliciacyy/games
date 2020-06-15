@@ -1,7 +1,7 @@
 ---
 id: games
 title: Games
-sidebar_label: Example Page
+sidebar_label: Introduction
 ---
 
 TODO: Put some fancy welcome message here.
