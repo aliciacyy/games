@@ -38,7 +38,8 @@ class HomeSplash extends React.Component {
     const ProjectTitle = props => (
       <h2 className="projectTitle">
         {props.title}
-        <small>{props.tagline}</small>
+        <small>Just another pig who plays video games</small>
+        {/* <small>{props.tagline}</small> */}
       </h2>
     );
 
@@ -60,7 +61,7 @@ class HomeSplash extends React.Component {
 
     return (
       <SplashContainer>
-        <Logo img_src={`${baseUrl}img/undraw_monitor.svg`} />
+        <Logo img_src={`${baseUrl}img/undraw_video_streaming.svg`} />
         <div className="inner">
           <ProjectTitle tagline={siteConfig.tagline} title={siteConfig.title} />
           {/* <PromoSection>
@@ -77,7 +78,10 @@ class HomeSplash extends React.Component {
 class Index extends React.Component {
   render() {
     const {config: siteConfig, language = ''} = this.props;
-    const {baseUrl} = siteConfig;
+    const {baseUrl, docsUrl} = siteConfig;
+    const docsPart = `${docsUrl ? `${docsUrl}/` : ''}`;
+    const langPart = `${language ? `${language}/` : ''}`;
+    const docUrl = doc => `${baseUrl}${docsPart}${langPart}${doc}`;
 
     const Block = props => (
       <Container
@@ -209,17 +213,53 @@ class Index extends React.Component {
       );
     };
 
+    const MainBody = () => {
+      return (
+        <div className="container lightBackground paddingTop paddingBottom">
+          <div className="wrapper">
+            <div className="gridBlock">
+              <div className="blockElement alignCenter imageAlignSide imageAlignRight twoByGridBlock">
+                <div className="blockContent">
+                  <h2>Hey, Pigster here.</h2>
+                  <div className="blockText">
+                    Just a bored pig who started this site on a whim to document my lousy and boring video game plays.<br />
+                    <br />
+                    <div className="buttonRow">
+                      <div className="pluginWrapper buttonWrapper">
+                        <a className="button" href={docUrl('doc1')}>
+                          game videos
+                        </a>
+                      </div>
+                      <div className="pluginWrapper buttonWrapper">
+                        <a className="button" href={'https://pigstergames.tumblr.com/'}>
+                          Blog
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="blockImage">
+                  <img src={"/img/undraw_gaming.svg"} alt="Project Logo" />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      )
+    };
+
     return (
       <div>
         <HomeSplash siteConfig={siteConfig} language={language} />
-        <div className="mainContainer">
-          <Intro />
-          {/* <Features />
+        <div className="mainContainer shrink">
+        <MainBody/>
+        {/*<Intro />
+          <Features />
           <FeatureCallout />
           <LearnHow />
           <TryOut />
-          <Description /> */}
-          {/* <Showcase /> */}
+          <Description />
+        <Showcase />*/}
         </div>
       </div>
     );

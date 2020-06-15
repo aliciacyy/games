@@ -21,3 +21,28 @@
 
 @media only screen and (min-width: 1500px) {
 }
+
+.mainContainer .shrink{
+    padding: 0px;
+}
+
+.homeContainer {
+    text-align: left;
+    background: url(/img/home-bg.png)
+}
+
+.projectTitle {
+    margin-top: 16px;
+}
+
+.blockText {
+    text-align: left;
+}
+
+.buttonRow {
+    display: flex;
+}
+
+.buttonRow .buttonWrapper {
+    margin-right: 8px;
+}

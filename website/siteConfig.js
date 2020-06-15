@@ -40,7 +40,7 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {doc: 'pdmm-preface', label: 'Games'},
+    {doc: 'games', label: 'Games'},
     {href: "https://pigstergames.tumblr.com/", label: "Blog"}
     // {doc: 'doc4', label: 'API'},
     // {page: 'help', label: 'Help'},
