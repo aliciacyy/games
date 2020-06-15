@@ -51,3 +51,15 @@ sidebar_label: Videos (M - P)
 
 ## Palette
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/m9kk-svz-A8?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Piano X Forte X Scandal
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/P8mMtC1DE0M?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## PIANO*GIRL
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/biF29tz7CVc?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Pinky Swear
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/FsTs6AYytnQ?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Po Pi Po
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/I2KsmR3KtcI?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

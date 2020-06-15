@@ -91,5 +91,9 @@ Click on the rank number to view the rank screenshot (my username is Piggy).
 | [Ooedo Julianight](pdmm-videos-m#ooedo-julianight) | Excellent* | 99.87% | [78](assets/hs/pdmm-hs-ooedo-julianight.png) | 14-06-2020 |
 | [Packaged](pdmm-videos-m#packaged) | Perfect | 100.62% | [304](assets/hs/pdmm-hs-packaged.png) | 14-06-2020 |
 | [Palette](pdmm-videos-m#palette) | Perfect | 100.52% | [144](assets/hs/pdmm-hs-palette.png) | 14-06-2020 |
+| [Piano X Forte X Scandal](pdmm-videos-m#piano-x-forte-x-scandal) | Excellent | 95.10% | [213](assets/hs/pdmm-hs-piano-x-forte-x-scandal.png) | 15-06-2020 |
+| [PIANO*GIRL](pdmm-videos-m#pianogirl) | Perfect | 103.56% | [83](assets/hs/pdmm-hs-piano-girl.png) | 15-06-2020 |
+| [Pinky Swear](pdmm-videos-m#pinky-swear) | Excellent* | 99.77% | [312](assets/hs/pdmm-hs-pinky-swear.png) | 15-06-2020 |
+| [Po Pi Po](pdmm-videos-m#po-pi-po) | Perfect | 101.54% | [97](assets/hs/pdmm-hs-po-pi-po.png) | 15-06-2020 |
 
-<!-- | [aaaaaaa](pdmm-videos-m#aaaaaaaaa) | Excellent | 000% | [000](assets/hs/pdmm-hs-aikotoba.png) | 14-06-2020 |  -->
+<!-- | [aaaaaaa](pdmm-videos-m#aaaaaaaaa) | Excellent | 000% | [000](assets/hs/pdmm-hs-aikotoba.png) | 15-06-2020 |  -->
