@@ -95,5 +95,10 @@ Click on the rank number to view the rank screenshot (my username is Piggy).
 | [PIANO*GIRL](pdmm-videos-m#pianogirl) | Perfect | 103.56% | [83](assets/hs/pdmm-hs-piano-girl.png) | 15-06-2020 |
 | [Pinky Swear](pdmm-videos-m#pinky-swear) | Excellent* | 99.77% | [312](assets/hs/pdmm-hs-pinky-swear.png) | 15-06-2020 |
 | [Po Pi Po](pdmm-videos-m#po-pi-po) | Perfect | 101.54% | [97](assets/hs/pdmm-hs-po-pi-po.png) | 15-06-2020 |
+| [Remote Controller](pdmm-videos-r#remote-controller) | Perfect | 103.92% | [115](assets/hs/pdmm-hs-remote-controller.png) | 16-06-2020 |
+| [Rin-chan Now!](pdmm-videos-r#rin-chan-now) | Excellent | 98.45% | [186](assets/hs/pdmm-hs-rin-chan-now.png) | 16-06-2020 |
+| [ROKI](pdmm-videos-r#roki) | Perfect | 103.63% | [132](assets/hs/pdmm-hs-roki.png) | 16-06-2020 |
+| [Rolling Girl](pdmm-videos-r#rolling-girl) | Perfect | 101.96% | [173](assets/hs/pdmm-hs-rolling-girl.png) | 16-06-2020 |
 
-<!-- | [aaaaaaa](pdmm-videos-m#aaaaaaaaa) | Excellent | 000% | [000](assets/hs/pdmm-hs-aikotoba.png) | 15-06-2020 |  -->
+
+<!-- | [aaaaaaa](pdmm-videos-m#aaaaaaaaa) | Excellent | 000% | [000](assets/hs/pdmm-hs-aikotoba.png) | 16-06-2020 |  -->
