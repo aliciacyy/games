@@ -101,7 +101,7 @@ Click on the rank number to view the rank screenshot (my username is Piggy).
 | [Rolling Girl](pdmm-videos-r#rolling-girl) | Perfect | 101.96% | [173](assets/hs/pdmm-hs-rolling-girl.png) | 16-06-2020 |
 | [Romeo and Cinderella](pdmm-videos-r#romeo-and-cinderella) | Perfect | 102.44% | [124](assets/hs/pdmm-hs-romeo-and-cinderella.png) | 18-06-2020 |
 | [Roshin Yukai](pdmm-videos-r#roshin-yukai) | Perfect | 103.87% | [139](assets/hs/pdmm-hs-roshin-yukai.png) | 18-06-2020 |
-| [Sadistic Music Factory](pdmm-videos-r#sadistic-music-factory) | Excellent | 92.59% | [282](assets/hs/pdmm-hs-sadistic-music-factory.png) | 18-06-2020 |
+| [Sadistic Music Factory](pdmm-videos-r#sadistic-music-factory) | Excellent | 92.49% | [282](assets/hs/pdmm-hs-sadistic-music-factory.png) | 18-06-2020 |
 | [Saihate](pdmm-videos-r#saihate) | Excellent | 99.55% | [210](assets/hs/pdmm-hs-saihate.png) | 18-06-2020 |
 | [Sakura no Ame](pdmm-videos-r#sakura-no-ame) | Excellent* | 101.20% | [218](assets/hs/pdmm-hs-sakura-no-ame.png) | 18-06-2020 |
 | [Secret Police](pdmm-videos-r#secret-police) | Excellent | 101.57% | [80](assets/hs/pdmm-hs-secret-police.png) | 18-06-2020 |
